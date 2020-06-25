@@ -4,18 +4,27 @@
 Formik, nó là 1 thư viện nhỏ, giúp chúng ta xử lý 3 vấn đề phiền toái nhất trong form là, nhận giá trị ở trong và ngoài form state, validate giá trị và hiển thị error messages, xử lý việc submit form.
 
 🍣 Quản lý và theo dõi state của Form và hiển thị ra.
+
 🍣 Xử lý submit Form.
+
 🍣 Form validation và hiển thị thông báo lỗi.
 
 ### QUÁ TRÌNH 
 
 🎯 Xây dựng một Form đơn giản.
+
 🎯 Sử dụng useFormik Hook.
+
 🎯 Quản lý state của Form.
+
 🎯 Xử lý submit Form.
+
 🎯 Form validation.
+
 🎯 Formik Components.
+
 🎯 Một vài tính năng khác.
+
 🎯 Tái sử dụng các Components cho input, radio button, checkboxes, textarea, select.
 
 ### CÀI ĐẶT
